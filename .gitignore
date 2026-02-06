@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+myenv/
+env/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Pesos del modelo (Solo si usas Git LFS, si no, Git te avisará que es muy pesado)
+# modelo_final.pth
+
+# Sistema y IDE
+.vscode/
+.cursor/
+.DS_Store
